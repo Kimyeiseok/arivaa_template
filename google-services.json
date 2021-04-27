@@ -1,0 +1,293 @@
+{
+  "project_info": {
+    "project_number": "69935791112",
+    "firebase_url": "https://expo-app-5102b.firebaseio.com",
+    "project_id": "expo-app-5102b",
+    "storage_bucket": "expo-app-5102b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69935791112:android:6eabebe9f7098241",
+        "android_client_info": {
+          "package_name": "com.arivaa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69935791112-kunson1t9m4get2ef81dknrs8iagotj3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arivaa",
+            "certificate_hash": "786d5210f3661057810b42ca05ad072c98f05c2f"
+          }
+        },
+        {
+          "client_id": "69935791112-vtqffupgejgntd529qj55hbthfqhfucr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6ZNiJBHngC1jvqY4ITNU-6s-AsCnrhyc"
+        },
+        {
+          "current_key": "AIzaSyCjFFEXG1-sA_Wn6yk6voDAT2K36CyHJ8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69935791112-0na59cdmlo6cpibuta2a60pqjtg4kmvi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "69935791112-8jgplp1cf84q1mhnh6mb5lmpp790m6p0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.arivaamobile"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69935791112:android:f4e2bc553cd8b9d1dea5bd",
+        "android_client_info": {
+          "package_name": "com.arivaamobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69935791112-vtqffupgejgntd529qj55hbthfqhfucr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6ZNiJBHngC1jvqY4ITNU-6s-AsCnrhyc"
+        },
+        {
+          "current_key": "AIzaSyCjFFEXG1-sA_Wn6yk6voDAT2K36CyHJ8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69935791112-0na59cdmlo6cpibuta2a60pqjtg4kmvi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "69935791112-8jgplp1cf84q1mhnh6mb5lmpp790m6p0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.arivaamobile"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69935791112:android:45b26370326ac68fdea5bd",
+        "android_client_info": {
+          "package_name": "com.laxaar.arivaa.basic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69935791112-3hhd3ku3bbmaqs3kqu1sq1imnfm7tu7r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.laxaar.arivaa.basic",
+            "certificate_hash": "2118eacd154a4a24e2c57f87b852bfce4ed101a3"
+          }
+        },
+        {
+          "client_id": "69935791112-vtqffupgejgntd529qj55hbthfqhfucr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6ZNiJBHngC1jvqY4ITNU-6s-AsCnrhyc"
+        },
+        {
+          "current_key": "AIzaSyCjFFEXG1-sA_Wn6yk6voDAT2K36CyHJ8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69935791112-0na59cdmlo6cpibuta2a60pqjtg4kmvi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "69935791112-8jgplp1cf84q1mhnh6mb5lmpp790m6p0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.arivaamobile"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69935791112:android:2ac2294a6355195b",
+        "android_client_info": {
+          "package_name": "com.laxaar.arivaa.basicfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69935791112-08gb1mg94ouoh689bd3mtuhdjt4g4ir0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.laxaar.arivaa.basicfirebase",
+            "certificate_hash": "cfb9febc403bbbe6c1fa1a95fb8e059bb1185ffb"
+          }
+        },
+        {
+          "client_id": "69935791112-q8q0k1i908pmtk9ua7fbntoeriaff9dg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.laxaar.arivaa.basicfirebase",
+            "certificate_hash": "236660cf91c6beef9194db9826f2e522bda5c9ae"
+          }
+        },
+        {
+          "client_id": "69935791112-vtqffupgejgntd529qj55hbthfqhfucr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6ZNiJBHngC1jvqY4ITNU-6s-AsCnrhyc"
+        },
+        {
+          "current_key": "AIzaSyCjFFEXG1-sA_Wn6yk6voDAT2K36CyHJ8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69935791112-0na59cdmlo6cpibuta2a60pqjtg4kmvi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "69935791112-8jgplp1cf84q1mhnh6mb5lmpp790m6p0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.arivaamobile"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69935791112:android:542c5a18717a74a7",
+        "android_client_info": {
+          "package_name": "com.laxaar.arivaa.rnfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69935791112-jj05d9hnt62ac2v3hg4kcvdfh8hpt17o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.laxaar.arivaa.rnfirebase",
+            "certificate_hash": "786d5210f3661057810b42ca05ad072c98f05c2f"
+          }
+        },
+        {
+          "client_id": "69935791112-vtqffupgejgntd529qj55hbthfqhfucr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6ZNiJBHngC1jvqY4ITNU-6s-AsCnrhyc"
+        },
+        {
+          "current_key": "AIzaSyCjFFEXG1-sA_Wn6yk6voDAT2K36CyHJ8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69935791112-0na59cdmlo6cpibuta2a60pqjtg4kmvi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "69935791112-8jgplp1cf84q1mhnh6mb5lmpp790m6p0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.arivaamobile"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69935791112:android:f968efbb41d1fa7a",
+        "android_client_info": {
+          "package_name": "host.exp.exponent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69935791112-29dfkr3n0fhtp7s0k51ctleireu44sqq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "host.exp.exponent",
+            "certificate_hash": "e010cc6b870ff59011caee57d54d764d1c3f46d7"
+          }
+        },
+        {
+          "client_id": "69935791112-vtqffupgejgntd529qj55hbthfqhfucr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6ZNiJBHngC1jvqY4ITNU-6s-AsCnrhyc"
+        },
+        {
+          "current_key": "AIzaSyCjFFEXG1-sA_Wn6yk6voDAT2K36CyHJ8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69935791112-0na59cdmlo6cpibuta2a60pqjtg4kmvi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "69935791112-8jgplp1cf84q1mhnh6mb5lmpp790m6p0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.arivaamobile"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

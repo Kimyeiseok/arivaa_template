@@ -1,0 +1,8 @@
+node_modules
+android
+ios
+plugins
+.vs-code
+automation/libs
+@arivaa-react-native/common/external-libs
+@arivaa-react-native/rn/external-libs

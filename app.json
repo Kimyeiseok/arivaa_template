@@ -1,0 +1,60 @@
+{
+  "expo": {
+    "name": "Arivaa (Built with Firebase)",
+    "description": "Comprehensive set of UI Components and Architecture for React Native Projects with Firebase integration ",
+    "slug": "arivaa-firebase",
+    "privacy": "public",
+    "platforms": ["ios", "android"],
+    "version": "2.0.0",
+    "orientation": "portrait",
+    "primaryColor": "#cccccc",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.laxaar.arivaa.basicfirebase",
+      "config": {
+        "googleSignIn": {
+          "reservedClientId": "com.googleusercontent.apps.69935791112-cqnuom5dm2q870o7f5coacsivvpiuskr"
+        },
+        "googleMapsApiKey": "AIzaSyAWaF5kuBlvt1IHAAZY3LhvQFzfM49f5QQ",
+        "googleMobileAdsAppId": "ca-app-pub-5213082437607074~4041883374"
+      },
+      "googleServicesFile": "./GoogleService-Info.plist"
+    },
+    "android": {
+      "package": "com.laxaar.arivaa.basicfirebase",
+      "googleServicesFile": "./google-services.json",
+      "versionCode": 4,
+      "config": {
+        "googleSignIn": {
+          "apiKey": "AIzaSyDMEoxjwLKuJ7ReFqRYLoLX8DGPOFblMns",
+          "certificateHash": "CF:B9:FE:BC:40:3B:BB:E6:C1:FA:1A:95:FB:8E:05:9B:B1:18:5F:FB"
+        },
+        "googleMaps": {
+          "apiKey": "AIzaSyDMEoxjwLKuJ7ReFqRYLoLX8DGPOFblMns"
+        },
+        "googleMobileAdsAppId": "ca-app-pub-5213082437607074~4492652978"
+      },
+      "permissions": [
+        "READ_EXTERNAL_STORAGE",
+        "WRITE_EXTERNAL_STORAGE",
+        "CAMERA",
+        "ACCESS_FINE_LOCATION",
+        "ACCESS_COARSE_LOCATION"
+      ],
+      "useNextNotificationsApi": true
+    },
+    "facebookScheme": "fb513432372363654",
+    "facebookAppId": "513432372363654",
+    "facebookDisplayName": "Arivaa"
+  }
+}

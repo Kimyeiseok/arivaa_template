@@ -1,0 +1,12 @@
+{
+  "date.title": "Select Date",
+  "time.title": "Select Time",
+  "time.select.title": "Select Time",
+  "time.done.title": "Done",
+  "year.title": "Select Year",
+  "year.select.title": "Select Year",
+  "year.done.title": "Done",
+  "done.title": "Done",
+  "date.change": "Change",
+  "year.change": "Change"
+}

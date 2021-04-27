@@ -1,0 +1,25 @@
+{
+  "name": "@arivaa-react-native/expo",
+  "version": "1.0.0",
+  "main": "components",
+  "dependencies": {
+    "expo-analytics-segment": "~9.0.0",
+    "expo-asset-utils": "^1.2.0",
+    "expo-av": "~8.6.0",
+    "expo-blur": "~8.2.0",
+    "expo-facebook": "~9.0.0",
+    "expo-font": "~8.3.0",
+    "expo-gl": "~9.1.1",
+    "expo-google-app-auth": "^8.1.2",
+    "expo-google-sign-in": "~8.3.0",
+    "expo-image-picker": "~9.1.0",
+    "expo-local-authentication": "~9.3.0",
+    "expo-notifications": "^0.7.2",
+    "expo-permissions": "~9.3.0",
+    "expo-pixi": "^1.2.0",
+    "expo-web-browser": "~8.5.0",
+    "react-native-maps": "0.27.1",
+    "react-native-svg": "12.1.0",
+    "react-native-view-shot": "^3.1.2"
+  }
+}
